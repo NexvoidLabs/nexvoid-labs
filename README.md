@@ -1,14 +1,28 @@
 # Nexvoid Labs
 
-Official repository of the Nexvoid Labs project.
+An independent technology laboratory focused on AI, automation, digital infrastructure and real-world experimentation.
 
-🌐 Website: https://blog.nexvoid.ru
+We build.
+We test.
+We document.
+We share.
 
-Nexvoid Labs is an independent technology laboratory focused on AI, automation, digital infrastructure and real-world implementation.
+## Core Areas
 
-We build, test, document and share:
-- AI systems
-- n8n workflows
-- Automation solutions
-- Infrastructure projects
-- Practical experiments
+- AI Research
+- Automation Architecture
+- Digital Infrastructure
+- Workflow Engineering
+- Experimental Technologies
+
+## Ecosystem
+
+- AI Media Factory
+- Workflow Library
+- Prompt Vault
+- Nexvoid Academy
+- Future Products
+
+## Mission
+
+To make advanced AI and automation technologies accessible through practical experimentation, documentation and education.
